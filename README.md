@@ -1,4 +1,4 @@
-#Metarule Project - Testing LLM Understanding
+## Metarule Project - Testing LLM Understanding
 Student project testing whether AI models really understand instructions or just pattern match.
 
 __What This Does__
