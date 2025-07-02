@@ -2,7 +2,7 @@
 Student project testing whether AI models really understand instructions or just pattern match.
 
 __What This Does__
-Tests AI models on increasingly complex rule-following tasks to see where they break down. Turns out they all struggle when rules get self-referential.
+Tests AI models on increasingly complex rule-following tasks.
 
 __Files__
 
@@ -23,17 +23,17 @@ Code
 
 __How to Run__
 
-Get API keys for the models you want to test
-Install openai, anthropic, etc. packages
+Get API keys for the models you want to test.  
+Install openai, anthropic, etc. packages.  
 Run the Python files
 
 The code is set up for OpenAI models (GPT-4o, o3) (with the exception of meta rule level 2) but you can modify for others.
 
 __What We Found__
 
-Models do well on basic rules (90%+ accuracy)
-They perform worse when rules reference other rules (drops ~30%)
-Better prompting helps but doesn't fix the core problem
+Models do well on basic rules (90%+ accuracy)  
+They perform worse when rules reference other rules (drops ~30%)  
+Better prompting helps but doesn't fix the core problem  
 All models we tested had the same issue
 
 __Game Types__
