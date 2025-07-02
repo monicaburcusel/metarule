@@ -1,0 +1,37 @@
+{
+  "first": {
+    "succ": "firsu",
+    "pred": "eirst",
+    "add_letter": "firstu",
+    "remove_redundant": "first",
+    "counting": "5"
+  },
+  "second": {
+    "succ": "secone",
+    "pred": "recond",
+    "add_letter": "seconde",
+    "remove_redundant": "second",
+    "counting": "6"
+  },
+  "third": {
+    "succ": "thire",
+    "pred": "rhird",
+    "add_letter": "thirde",
+    "remove_redundant": "third",
+    "counting": "5"
+  },
+  "fourth": {
+    "succ": "fourti",
+    "pred": "eourth",
+    "add_letter": "fourthi",
+    "remove_redundant": "fourth",
+    "counting": "6"
+  },
+  "fifth": {
+    "succ": "fifti",
+    "pred": "eifth",
+    "add_letter": "fifthi",
+    "remove_redundant": "fith",
+    "counting": "5"
+  }
+}
