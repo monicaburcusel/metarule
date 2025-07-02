@@ -1,0 +1,37 @@
+{
+  "first": {
+    "cat": "Order",
+    "func": "Cheer",
+    "ant": "Last",
+    "syn": "One",
+    "comp": "Competition"
+  },
+  "second": {
+    "cat": "Order",
+    "func": "Settle",
+    "ant": "Second last",
+    "syn": "Two",
+    "comp": "Competition"
+  },
+  "third": {
+    "cat": "Order",
+    "func": "Finish",
+    "ant": "Third last",
+    "syn": "Three",
+    "comp": "Competition"
+  },
+  "fourth": {
+    "cat": "Order",
+    "func": "Place",
+    "ant": "Fourth last",
+    "syn": "Four",
+    "comp": "Competition"
+  },
+  "fifth": {
+    "cat": "Order",
+    "func": "Obtain",
+    "ant": "Fifth last",
+    "syn": "Five",
+    "comp": "Competition"
+  }
+}
