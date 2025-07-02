@@ -42,4 +42,5 @@ __Game Types__
  - Meta-Rules: When you see "first/second/third" etc., switch to that numbered rule
 
 __Authors__  
-Monica Burcușel and Nona Cohen
+Monica Burcușel and Nona Cohen  
+Supervised by Dr. Yair Pinto
