@@ -1,7 +1,7 @@
 ## Metarule Project - Testing LLM Understanding
 Student project testing whether AI models really understand instructions or just pattern match.
 
-__What This Does__
+__What This Does__  
 Tests AI models on increasingly complex rule-following tasks.
 
 __Files__
@@ -41,7 +41,5 @@ __Game Types__
  - Verbal Game: Find relationships between words (Moose → Animal, Moose → Graze, etc.)
  - Meta-Rules: When you see "first/second/third" etc., switch to that numbered rule
 
-__Authors__
-
-
+__Authors__  
 Monica Burcușel and Nona Cohen
